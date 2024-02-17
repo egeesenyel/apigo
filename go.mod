@@ -13,7 +13,7 @@ require (
 	github.com/go-openapi/runtime v0.27.1
 	github.com/go-openapi/strfmt v0.22.0
 	github.com/go-openapi/swag v0.22.9
-	github.com/go-openapi/validate v0.22.6
+	github.com/go-openapi/validate v0.23.0
 	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible
 	github.com/kat-co/vala v0.0.0-20170210184112-42e1d8b61f12
 	github.com/labstack/echo/v4 v4.11.4
@@ -56,11 +56,11 @@ require (
 	github.com/go-logfmt/logfmt v0.6.0 // indirect
 	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
-	github.com/go-openapi/analysis v0.22.0 // indirect
+	github.com/go-openapi/analysis v0.22.2 // indirect
 	github.com/go-openapi/jsonpointer v0.20.2 // indirect
 	github.com/go-openapi/jsonreference v0.20.4 // indirect
 	github.com/go-openapi/loads v0.21.5 // indirect
-	github.com/go-openapi/spec v0.20.13 // indirect
+	github.com/go-openapi/spec v0.20.14 // indirect
 	github.com/go-sql-driver/mysql v1.7.0 // indirect
 	github.com/godror/godror v0.40.4 // indirect
 	github.com/godror/knownpb v0.1.1 // indirect
